@@ -14,6 +14,10 @@ $items = [
         'url' => ['/site/index'],
     ],
     [
+        'label' => 'Empresas',
+        'url' => ['/empresa/index'],
+    ],
+    [
         'label' => 'About',
         'url' => ['/site/about'],
     ],
